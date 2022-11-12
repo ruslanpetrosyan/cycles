@@ -47,5 +47,6 @@ public class Main {
             System.out.println("Месяц " + month1 + ", сумма накоплений равна " + total1 + " рублей");
         }
         System.out.println("-------------------------------");
+        System.out.println("Прошу проверить  ДЗ");
     }
 }
